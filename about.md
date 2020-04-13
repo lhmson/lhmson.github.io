@@ -8,12 +8,11 @@ permalink: /about/
 
 **Birthyear**: 2000  
 
-**Current Position**: an IT Student in 3rd year of exploring the world of Software Engineering at University of Information Technology, Vietnam National University (Ho Chi Minh City)  
+**Current Position**: an IT Student in 3rd year of exploring the world of Software Engineering at [University of Information Technology](https://www.uit.edu.vn/), Vietnam National University (Ho Chi Minh City)  
 
 **Hobbies**: English, reading, computer, human communication,…  
 
-**Motto**:
-    > Start all from scratch, catch all from stars   
+**Motto**:  *`Start all from scratch, catch all from stars`*   
 
 ### More Information
 
@@ -21,9 +20,9 @@ I have the ability to implement practical IT strategies combined with human inte
 
 I was originally a student who study languages (English) at high school, as well as a freelance English translator (2015-2018) so used to connecting everyone by ideas and messages.  
 
-This is my personal blog for updating things related to my journey of acquiring knowledge about the world around me. I love to look, to learn and to live in a constantly changing society. Hope you have fun! :v
+This is my personal blog for updating things related to my journey of acquiring knowledge about the world around me. I love to look, to learn and to live in a constantly changing society. Hope you have fun! :v  
 
-> Sharing is connecting
+> **Sharing is connecting**
 
 ### Contact me
 
